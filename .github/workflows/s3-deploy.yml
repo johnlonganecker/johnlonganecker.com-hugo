@@ -17,7 +17,7 @@ jobs:
           hugo-version: '0.62.2'
 
       - name: build
-        run: hugo -D && hugo -v deploy
+        run: ls -alh && hugo -D && hugo -v deploy
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.JLCOM_S3_AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.JLCOM_S3_AWS_SECRET_ACCESS_KEY }}
