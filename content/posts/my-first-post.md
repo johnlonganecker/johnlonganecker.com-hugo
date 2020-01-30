@@ -21,4 +21,4 @@ I have been meaning to create a blog to
   - store access key/secret in github Secrets
 4. Setup S3 Deploy
 5. Preview Workflow
-  - s3 hide http auth
+  - s3 drafts hide http auth

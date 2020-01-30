@@ -17,4 +17,4 @@ jobs:
           hugo-version: '0.62.2'
 
       - name: build
-        run: hugo -v deploy
+        run: hugo -D && hugo -v deploy
