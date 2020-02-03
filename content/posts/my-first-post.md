@@ -20,5 +20,6 @@ I have been meaning to create a blog to
   - push to s3
   - store access key/secret in github Secrets
 4. Setup S3 Deploy
+  - delete old files
 5. Preview Workflow
   - s3 drafts hide http auth
