@@ -26,3 +26,5 @@ I have been meaning to create a blog to
 6. cool
 
 bucket policies https://aws.amazon.com/premiumsupport/knowledge-center/secure-s3-resources/
+
+s3 static site docs https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html#root-domain-walkthrough-create-buckets
