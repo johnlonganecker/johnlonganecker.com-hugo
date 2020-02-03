@@ -23,3 +23,6 @@ I have been meaning to create a blog to
   - delete old files
 5. Preview Workflow
   - s3 drafts hide http auth
+6. cool
+
+bucket policies https://aws.amazon.com/premiumsupport/knowledge-center/secure-s3-resources/
